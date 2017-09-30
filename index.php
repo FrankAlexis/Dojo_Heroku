@@ -2,11 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Dojo Heroku</title>
+    <title>Dojo Github</title>
   </head>
   <body>
     <?php
-      echo "Hello App Empresariales - Frank Castrillón";
+      echo "Hello App Empresariales - Frank Castrillón Giraldo";
     ?>
   </body>
 </html>
